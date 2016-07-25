@@ -1,0 +1,51 @@
+Cid,Critic Ratings,Acq Cost,Art Category,Art Piece Size ,Border of art piece,Art Type,Prominent Color,CurrentAuctionAveragePrice,Brush,Brush Size,Brush Finesse,Art Nationality,Top 3 artists ,CollectorsAverageprice,Min Guarantee Cost
+1,8.9046,49700,Abstract Art Type I,17in. X 27in.,Border 1,Type 1,Red,52157,Camel Hair Brush,1,Fine,European,OTHER,86863,7791
+2,9.3593,53200,Gothic II,29in. X 3in.,Border 2,Type 2,White,52192,Camel Hair Brush,1,Fine,American,MF Hussain,89537,7371
+3,7.3807,34300,Gothic II,12in. X 20in.,Border 3,Type 3,Maroon,28245,Camel Hair Brush,2,Coarse,American,MF Hussain,60914,9723
+4,6.5617,28700,Gothic II,9in. X 12in.,Border 3,Type 4,Silver,12908,Camel Hair Brush,1,Fine,American,MF Hussain,38626,4410
+5,6.9367,28000,Silhoutte III,7in. X 19in.,Border 4,Type 5,Silver,22729,Synthetic Brush,2,Coarse,American,Pablo,55377,7140
+6,8.1054,39200,Portrait Art II,22in. X 6in.,Border 5,Type 6,White,32963,Camel Hair Brush,2,Coarse,European,OTHER,66157,4158
+7,6.5328,29400,Vintage I,26in. X 18in.,Border 6,Type 7,Black,20860,Camel Hair Brush,2,Coarse,European,OTHER,60221,3731
+8,6.5805,31500,Silhoutte III,19in. X 4in.,Border 7,Type 8,White,25991,Camel Hair Brush,2,Coarse,American,Pablo,57694,5775
+9,4.9921,39200,Vintage I,26in. X 18in.,Border 6,Type 7,Black,44919,Camel Hair Brush,2,Coarse,European,OTHER,75446,3374
+10,8.4872,53900,Silhoutte III,7in. X 27in.,Border 8,Type 9,Red,64169,Camel Hair Brush,1,Fine,American,Pablo,103915,11431
+11,8.008,38500,Silhoutte II,18in. X 2in.,Border 9,Type 10,Silver,39984,Camel Hair Brush,1,Fine,American,Rembrandt,81641,9611
+12,7.5419,37100,Silhoutte III,28in. X 9in.,Border 10,Type 11,White,20097,Synthetic Brush,1,Fine,American,Pablo,45913,6083
+13,7.9315,37800,Gothic II,29in. X 29in.,Border 7,Type 12,Red,33649,Camel Hair Brush,1,Fine,American,MF Hussain,70868,11361
+14,7.1254,54600,Vintage II,9in. X 12in.,Border 11,Type 13,White,41832,Camel Hair Brush,2,Coarse,Asian,OTHER,75460,4802
+15,7.4722,48300,Gothic II,12in. X 2in.,Border 3,Type 12,Gold,55664,Camel Hair Brush,1,Fine,American,MF Hussain,96852,11361
+16,7.2132,23100,Dark Art I,10in. X 22in.,Border 11,Type 14,White,14896,Synthetic Brush,2,Coarse,American,Rembrandt,38542,10185
+17,8.0736,47600,Dark Art I,6in. X 9in.,Border 12,Type 15,White,53690,Camel Hair Brush,1,Fine,American,Rembrandt,105287,8701
+18,7.5156,34300,Vintage III,29in. X 6in., ,Type 16,Red,24591,Camel Hair Brush,2,Coarse,American,Rembrandt,65548,13461
+19,6.5925,39900,Dark Art I,9in. X 12in.,Border 11,Type 17,Grey,28749,Camel Hair Brush,2,Coarse,American,Rembrandt,61600,11921
+20,8.4498,49700,Silhoutte II,12in. X 12in.,Border 9,Type 18,Black,52052,Camel Hair Brush,1,Fine,American,Rembrandt,88263,8701
+21,5.4586,33600,Abstract Art Type II,29in. X 29in.,Border 11,Type 19,Blue,23149,Camel Hair Brush,2,Coarse,American,MF Hussain,51891,10857
+22,6.6536,40600,Dark Art I,23in. X 14in.,Border A,Type 20,White,30821,Camel Hair Brush,1,Fine,American,Rembrandt,62825,14021
+23,9.813,28700,Dark Art I,7in. X 5in.,Border 12,Type 21,Silver,17122,Camel Hair Brush,2,Coarse,American,Rembrandt,60809,39291
+24,5.9789,53900,Dark Art I,14in. X 3in.,Border 12,Type 22,Grey,42434,Camel Hair Brush,2,Coarse,American,Rembrandt,81242,4697
+25,6.5663,49000,Dark Art I,14in. X 3in.,Border 12,Type 22,Grey,49266,Camel Hair Brush,2,Coarse,American,Rembrandt,82621,5096
+26,5.2106,31500,Dark Art II,1in. X 7in.,Border 12,Type 23,White,22120,Camel Hair Brush,1,Fine,American,Pablo,56518,5278
+27,8.8958,56000,Silhoutte II,12in. X 12in.,Border 9,Type 24,Gold,38570,Camel Hair Brush,1,Fine,American,Rembrandt,71764,17164
+28,7.6173,61600,Gothic II,29in. X 3in.,Border 2,Type 2,White,50113,Camel Hair Brush,1,Fine,American,MF Hussain,87920,6440
+29,6.5393,58800,Gothic II,16in. X 17in.,Border B,Type 25,Red,55041,Camel Hair Brush,1,Fine,American,MF Hussain,110649,9877
+30,8.0064,39200,Gothic II,7in. X 22in.,Border 3,Type 12,Grey,43225,Camel Hair Brush,1,Fine,American,MF Hussain,80423,12341
+31,7.7694,58100,Dark Art I,8in. X 15in.,Border C,Type 26,Gold,48370,Camel Hair Brush,1,Fine,American,Rembrandt,85064,13461
+32,5.63,34300,Silhoutte III,22in. X 3in.,Border D,Type 27,Blue,21434,Camel Hair Brush,1,Fine,American,Pablo,47411,8540
+33,7.8241,66500,Abstract Art Type II,9in. X 12in.,Border 11,Type 28,Black,61719,Camel Hair Brush,2,Coarse,American,MF Hussain,100618,9723
+34,5.7723,49000,Silhoutte III,10in. X 22in.,Border 11,Type 29,Black,41720,Synthetic Brush,1,Fine,American,Pablo,69468,4697
+35,7.8434,74900,Dark Art I,5in. X 16in.,Border C,Type 30,Black,81697,Camel Hair Brush,1,Fine,American,Rembrandt,128730,8904
+36,8.2944,25200,Silhoutte III,10in. X 24in.,Border 18,Type 31,Gold,12880,Camel Hair Brush,1,Fine,American,Pablo,38710,16254
+37,7.6304,42700,Silhoutte III,26in. X 20in.,Border 7,Type 32,Gold,35693,Camel Hair Brush,2,Coarse,American,Pablo,68166,10542
+38,5.5711,35700,Abstract Art Type III,9in. X 12in.,Border 19,Type 33,Gold,19033,Camel Hair Brush,1,Fine,European,OTHER,47565,6797
+39,7.6586,57400,Abstract Art Type II,9in. X 12in.,Border 11,Type 28,Silver,59696,Camel Hair Brush,2,Coarse,American,MF Hussain,98553,9723
+40,6.5078,59500,Silhoutte III,10in. X 22in.,Border 11,Type 29,Gold,53683,Camel Hair Brush,NULL,NULL,American,Pablo,92568,5096
+41,6.5403,46900,Gothic II,16in. X 2in.,Border 3,Type 34,Maroon,55559,Camel Hair Brush,2,Coarse,American,MF Hussain,87542,5775
+42,8.6889,36400,Vintage II,13in. X 22in.,Border 11,Type 35,Silver,31654,Camel Hair Brush,NULL,NULL,Asian,OTHER,64092,4158
+43,6.899,59500,Abstract Art Type II,23in. X 21in., ,Type 36,Silver,46865,Camel Hair Brush,1,Fine,American,MF Hussain,79275,8505
+44,8.0949,55300,Dark Art I,21in. X 10in.,Border 12,Type 37,Grey,63119,Camel Hair Brush,2,Coarse,American,Rembrandt,99267,15064
+45,5.2774,79345,Gothic II,9in. X 29in.,Border 2,Type 2,Blue,55097,Camel Hair Brush,1,Fine,American,MF Hussain,91028,5278
+46,7.2191,49700,Vintage II,2in. X 19in.,Border 7,Type 38,Blue,49231,Camel Hair Brush,NULL,NULL,Asian,OTHER,87024,3983
+47,5.9858,32200,Silhoutte III,19in. X 4in.,Border 7,Type 5,Silver,19516,Camel Hair Brush,1,Fine,American,Pablo,47180,8540
+48,7.9576,27300,Dark Art III,14in. X 13in.,Border 20,Type 39,Silver,17444,Camel Hair Brush,NULL,NULL,Asian,OTHER,49616,6083
+49,7.3291,28700,Silhoutte III,19in. X 4in.,Border 7,Type 5,White,20279,Camel Hair Brush,1,Fine,American,Pablo,49679,8085
+50,5.0227,52500,Portrait Art I,26in. X 24in.,Border 21,Type 40,Red,46410,Camel Hair Brush,NULL,NULL,American,Rembrandt,85771,7021
