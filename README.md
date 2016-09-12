@@ -1,4 +1,4 @@
-# R-Data-Mining-Blueprints
+# R Data Mining Blueprints
 
 This is the code repository for [R-Data-Mining-Blueprints] (https://www.packtpub.com/big-data-and-business-intelligence/r-data-mining-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783989683), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
